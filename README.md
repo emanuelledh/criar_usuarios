@@ -75,10 +75,6 @@ Conflitos de nomes são tratados automaticamente
 O script deve ser executado com privilégios administrativos  
 Recomendado para ambientes acadêmicos e de teste  
 
-## Autor
-
-Emanuelle de Araujo da Hora  
-Estudante de Sistemas de Informação
 
 ## Licença
 
